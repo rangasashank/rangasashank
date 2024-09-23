@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rangasashank
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any front end web dev projects
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently working on a MERN stack project
+- 💞️ I’m looking to collaborate on any web dev projects
 - 📫 Reach me through email: grsashank2003@gmail.com
 
 <!---
