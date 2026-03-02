@@ -1,9 +1,15 @@
-🚀 CS@UVic | Ex QA Engineer Co-op @ Blastworks | Hackathon Builder  
-🎮 Automated Unity mobile games @ Blastworks | Built Disaster management sytem in 24hrs @ nwHacks  
-🌐 Full-stack web wizard — React, Node.js, MongoDB, Tailwind, Redux  
-🔍 Obsessed with clean commits, clever code, and real-world impact  
-🛠️ Python, C, JavaScript, REST APIs, Git, Docker, CI/CD  
-🎓 BSc. Computer Science @ UVic  
+🚀 CS @ UVic | Full-Stack Developer | Hackathon Builder  
+💼 Ex QA Engineer Co-op @ Blastworks | Ex Software Engineer Co-op @ Inspire UVic | Full Stack Developer @ Meaningful
+
+⚡ Building scalable AI-powered CRM platforms for Associations/Non-profits @Meaningful
+🧠 Built AI-powered systems that turn meetings into action @ Inspire  
+🎮 Automated Unity mobile game pipelines @ Blastworks  
+
+🌐 Full-stack focused — React, Next.js, Node.js, MongoDB, Tailwind, Redux  
+🛠️ JavaScript, TypeScript, Python, C, REST APIs, Docker, CI/CD  
+🔍 Big on clean commits, scalable systems, and real-world impact  
+
+🎓 BSc Computer Science @ University of Victoria  
 📍 Victoria, BC
 
 
