@@ -1,5 +1,5 @@
 🚀 CS @ UVic | Full-Stack Developer | Hackathon Builder  
-💼 Ex QA Engineer Co-op @ Blastworks | Ex Software Engineer Co-op @ Inspire UVic | Full Stack Developer @ Meaningful
+💼 Ex QA Engineer Co-op @ Blastworks | Ex Software Engineer Co-op @ Inspire UVic | Full Stack Developer Co-op @ Meaningful
 
 ⚡ Building scalable AI-powered CRM platforms for Associations/Non-profits @Meaningful
 🧠 Built AI-powered systems that turn meetings into action @ Inspire  
